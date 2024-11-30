@@ -1,6 +1,6 @@
 const text = "This \n\tis \n\t\ta \n\t\t\ttext.";
 
-// Template literals - multi-line string
+// Template literals - multi line string
 
 const text2 = `This
     is
